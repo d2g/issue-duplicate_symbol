@@ -1,6 +1,9 @@
 issue-duplicate_symbol
 ======================
 
+Fixed in Go 1.8
+https://github.com/golang/go/issues/8756
+
 Show an example with Duplicate Symbol issue.
 
 ### Error Message:
